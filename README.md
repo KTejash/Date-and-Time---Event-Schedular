@@ -54,7 +54,9 @@ bashgit add README.md
 git commit -m "Add clone and run instructions"
 git push
 
-# C++ date/time utility library + event scheduler with conflict detection, leap-year handling, and file persistence.
+
+# it's a -
+C++ date/time utility library + event scheduler with conflict detection, leap-year handling, and file persistence.
 #cpp
 #event-scheduler "date-time" 
 #college-project
